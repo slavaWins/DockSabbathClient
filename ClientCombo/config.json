@@ -1,0 +1,12 @@
+﻿[ 
+  {
+    "name": "dev",
+    "server": "http://localhost:8000",
+    "token": "xxv"
+  },
+  {
+    "name": "release",
+    "server": "http://212.164.65.25:8000",
+    "token": "xxv"
+  }
+]
